@@ -2,7 +2,7 @@
 
 int main(){
 	int a;
-	printf("Nhap vao 1 so bat ki\n");
+	printf("Nhap vao 1 so bat ki");
 	scanf("%d",&a);
 	if(a>8){
 		printf("Day khong phai ngay trong tuan");
